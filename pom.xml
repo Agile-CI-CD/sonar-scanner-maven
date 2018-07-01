@@ -8,7 +8,6 @@
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
 
-<name>ti-census-example</name>  
 
   <modules>
     <module>app-java</module>
@@ -26,6 +25,11 @@
          the same report, so that, it will give the cross-module code coverage. -->
     <sonar.jacoco.itReportPath>${project.basedir}/../target/jacoco-it.exec</sonar.jacoco.itReportPath>
     <sonar.groovy.binaries>target/classes</sonar.groovy.binaries>
+    <sonar.projectKey>sonar:TIproject</sonar.projectKey>
+    <sonar.projectName>ti-census-example</sonar.projectName>
+    <sonar.projectVersion>1.0</sonar.projectVersion>
+    <sonar.source>src</sonar.source>
+    sonar.login>d98596cd2f50967c5fcdccb3379e912128c1ed7d</sonar.login>
   </properties>
 
   <dependencies>
