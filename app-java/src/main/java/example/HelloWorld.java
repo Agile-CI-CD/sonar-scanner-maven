@@ -10,7 +10,7 @@ public class HelloWorld {
 
   public void coveredByIntegrationTest() {
     System.out.println("coveredByIntegrationTest1");
-    System.out.println("coveredByIntegrationTest1");
+    System.out.println("coveredByIntegrationTest2");
     
   }
 
