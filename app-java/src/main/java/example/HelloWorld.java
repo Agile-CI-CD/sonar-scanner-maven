@@ -11,6 +11,12 @@ public class HelloWorld {
     System.out.println("coveredByIntegrationTest1");
     System.out.println("coveredByIntegrationTest2");
     System.out.println("coveredByIntegrationTest3");
+    System.out.println("coveredByIntegrationTest1");
+    System.out.println("coveredByIntegrationTest2");
+    System.out.println("coveredByIntegrationTest3");
+    System.out.println("coveredByIntegrationTest1");
+    System.out.println("coveredByIntegrationTest2");
+    System.out.println("coveredByIntegrationTest3");
   }
 
   public void notCovered() {
