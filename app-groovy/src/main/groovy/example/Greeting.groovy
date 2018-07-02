@@ -2,39 +2,8 @@ package example
 
 class Greeting {
   def say() {
-    println 'Hello World k'
+    println 'Hello World'
   }
 }
 
 
-class Greeting {
-  def say() {
-    println 'Hello World k'
-  }
-}
-
-
-class Greeting {
-  def say() {
-    println 'Hello World k'
-  }
-}
-
-
-
-
-class Greeting {
-  def say() {
-    println 'Hello World k'
-  }
-}
-
-
-
-
-
-class Greeting {
-  def say() {
-    println 'Hello World k'
-  }
-}
