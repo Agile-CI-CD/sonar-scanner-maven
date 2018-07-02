@@ -1,6 +1,6 @@
 package example;
 
-public class HelloWorld {
+public class HelloWorld() {
 
   public void coveredByUnitTest() {
     System.out.println("coveredByUnitTest1");
@@ -14,11 +14,7 @@ public class HelloWorld {
     System.out.println("coveredByIntegrationTest1");
     System.out.println("coveredByIntegrationTest1");
     System.out.println("coveredByIntegrationTest1");
-    System.out.println("coveredByIntegrationTest1");
-    System.out.println("coveredByIntegrationTest1");
-    System.out.println("coveredByIntegrationTest1");
-    System.out.println("coveredByIntegrationTest1");
-    System.out.println("coveredByIntegrationTest1");
+   
     
  
   }
