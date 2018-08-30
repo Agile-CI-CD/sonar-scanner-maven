@@ -28,8 +28,8 @@
     <sonar.jacoco.itReportPath>${project.basedir}/../target/jacoco-it.exec</sonar.jacoco.itReportPath>
     <sonar.groovy.binaries>target/classes</sonar.groovy.binaries>
     <sonar.host.url>http://18.209.9.52:9000</sonar.host.url>
-    <sonar.projectName>test-ti-census-example</sonar.projectName>
-    <sonar.projectVersion>1.0</sonar.projectVersion>
+    <sonar.projectName>second-ti-census-example</sonar.projectName>
+    <sonar.projectVersion>2.0</sonar.projectVersion>
     <sonar.login>d98596cd2f50967c5fcdccb3379e912128c1ed7d</sonar.login> 
     
   </properties>
